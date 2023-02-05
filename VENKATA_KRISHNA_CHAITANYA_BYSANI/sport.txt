@@ -1,0 +1,11 @@
+1,Archery,10 Am - 5 Pm,mon-tue
+2,Tennis,10 Am - 4 Pm,tue-thu
+3,volley ball,10 Am - 5 Pm,mon-fri
+4,swimming,10 Am - 5 Pm,wed-fri
+5,cricket,10 Am - 8 Pm,wed-sun
+6,Football,10 Am - 6 Pm,sat-sun
+7,Basketball,10 Am - 5 Pm,tue-fri
+8,Gymnastics,10 Am - 5 Pm,mon-fri
+9,Badminton,10 Am - 7 Pm,tue-wed
+10,Table Tennis,10 Am - 5 Pm,wed-sat
+11,Golf,10 Am - 5 Pm,wed-sat
